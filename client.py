@@ -38,6 +38,3 @@ result.setFromCurrency(opts.cfrom)
 result.setToCurrency(opts.cto)
 
 print str(opts.amount) + ' ' + result.getFromCurrency() + ' = '  + str(result.convert(opts.amount)) + ' '  + result.getToCurrency()
-
-
-
