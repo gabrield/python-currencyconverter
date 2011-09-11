@@ -1,7 +1,9 @@
-The conversion is done using 
+Python library to convert currencies
+
 Example, converting 1 Euro (EUR) to Brazilian Real (BRL)
+chmo+x client.py
 ./client.py -f EUR -t BRL -a 1
 
 BUGS:
 There are some when converting some currencies,
-like from EUR to VND
+like from EUR to VND.
