@@ -1,0 +1,7 @@
+The conversion is done using 
+Example, converting 1 Euro (EUR) to Brazilian Real (BRL)
+./client.py -f EUR -t BRL -a 1
+
+BUGS:
+There are some when converting some currencies,
+like from EUR to VND
